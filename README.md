@@ -4,10 +4,9 @@
 This is a simple "Mesh Model Viewer" project that was developed using C++ and OpenGL during a Computer Graphics course at Haifa University.
 The course provided an introduction to the foundations of Computer Graphics, including math concepts, such as 2D and 3D transformations, shading models, and rendering techniques.
 
-### Installing Git and CMAKE
-Before we can begin, you must install Git, a version control system which you need for handing in your assignments, and for keeping track of your progress. We refer you to the online [Pro Git book](https://git-scm.com/book/en/v2) for more information. There you will also find [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git]) on how to to install it. We recommend using [SourceTree](https://www.sourcetreeapp.com/) for as a GUI for Git.
-
-We use CMake for cross-platform builds. You can download it from: [https://cmake.org/download/](https://cmake.org/download/), but we recommend installing it with a package manager instead.
+### Building the Project
+We used CMake for cross-platform builds.
+You can download it from: https://cmake.org/download/, but it is recommended to install it with a package manager instead.
 
 On Windows use  [Chocolatey](https://chocolatey.org/install), run command line as administrator and type
 ```
